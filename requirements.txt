@@ -1,0 +1,7 @@
+datasets
+torch 
+transformers
+tqdm
+peft
+trl==0.11.4
+
