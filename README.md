@@ -89,13 +89,3 @@ Important links
 - Hugging Face Transformers documentation: https://huggingface.co/docs/transformers
 - Hugging Face Datasets documentation: https://huggingface.co/docs/datasets
 
-Suggested next steps
-
-- Add logging (python `logging`) instead of prints.
-- Add checkpointing and resume support for PPOTrainer.
-- Validate reward-model label ordering and consider normalizing reward values.
-- Add tests or a short sample dataset for quick smoke runs.
-
-Contact / Attribution
-
-This README was generated from `train_rlhf.py`. Refer to the script for implementation details and feel free to modify the script to suit your environment and models.
